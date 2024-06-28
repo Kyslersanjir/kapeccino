@@ -12,14 +12,14 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝙼𝚘𝚌𝚑𝚊 [ - ]",
+  "nickNameBot": "ichiro [ - ]",
   "prefix": "-",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "add your uid here"
+    "𝟨𝟣𝟧𝟧𝟦𝟤𝟨𝟧𝟦𝟥𝟥𝟤𝟩𝟤"
   ],
   "whiteListMode": {
     "enable": false,
